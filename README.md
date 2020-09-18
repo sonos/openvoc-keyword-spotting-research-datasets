@@ -78,9 +78,7 @@ Please read [the full License Terms](https://github.com/sonos/openvoc-keyword-sp
 
 ## Dataset access
 
-To access the data, please fill the following form:
-
-[https://forms.gle/](https://forms.gle/)
+To access the data, please fill the following form: _COMING SOON_
 
 
 You will be granted access shortly and will be provided with a temporary url to download it.
